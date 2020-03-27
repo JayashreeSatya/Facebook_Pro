@@ -7,6 +7,10 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 public class DatePicker {
+	public void main()
+	{
+		System.out.println("It is Complete Menthod")
+	}
 public static void main(String[] args) {
 	String date="12";
 	System.setProperty("webdriver.chrome.driver", "C:\\Users\\Jayashree\\Downloads\\Video\\ChromeServer\\chromedriver_win32\\chromedriver.exe");
