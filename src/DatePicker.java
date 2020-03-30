@@ -9,7 +9,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class DatePicker {
 	public void main()
 	{
-		System.out.println("It is Complete Menthod")
+		System.out.println("It is Complete Menthod");
 	}
 public static void main(String[] args) {
 	String date="12";
